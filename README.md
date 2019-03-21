@@ -20,3 +20,6 @@ https://github.com/youngguncho/HourglassPose-Pytorch
 (1)illumination normalization
 https://github.com/liang2017/Illumination-Normalization-For-Face-Images
 https://github.com/nagyistoce/illumination-invariant-face-recognition-system
+
+5、Siamese-RPN-pytorch
+https://github.com/songdejia/Siamese-RPN-pytorch
